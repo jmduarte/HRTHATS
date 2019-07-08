@@ -1,1 +1,1 @@
-# HRTHATS
+# NanoHRTHATS
