@@ -10,8 +10,8 @@ and setup CMSSW:
 cmsrel CMSSW_10_2_15
 cd CMSSW_10_2_15/src/ 
 cmsenv
-git cms-init
-git cms-merge-topic cms-nanoAOD:master-102X 
+git cms-init --ssh
+git cms-merge-topic cms-nanoAOD:master-102X --ssh
 git checkout -b nanoAOD cms-nanoAOD/master-102X 
 
 git clone https://github.com/cms-nanoAOD/nanoAOD-tools.git PhysicsTools/NanoAODTools
