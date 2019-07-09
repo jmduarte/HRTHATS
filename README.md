@@ -67,11 +67,11 @@ wget https://raw.githubusercontent.com/jmduarte/NanoHRTHATS/setup-libraries.ipyn
 ```
 
 
-Go back to your Jupyter browser (Home) page and open/run(double-click) the newly downloaded notebook  ((setup-libraries.ipynb)[setup-libraries.ipynb] - downloaded just recently - only one cell to run). This will checkout the code and setup your environment for future use. After running (setup-libraries.ipynb)[setup-libraries.ipynb]. After running (setup-libraries.ipynb)[setup-libraries.ipynb], choose "File... Close and Halt". Then you can continue on to the Exercise section (below).
+Go back to your Jupyter browser (Home) page and open/run(double-click) the newly downloaded notebook  ([setup-libraries.ipynb](setup-libraries.ipynb) - downloaded just recently - only one cell to run). This will checkout the code and setup your [setup-libraries.ipynb](setup-libraries.ipynb). After running [setup-libraries.ipynb](setup-libraries.ipynb), choose "File... Close and Halt". Then you can continue on to the Exercise section (below).
 
 
 ## Exercise
-Run the notebook (taggerComp.py)[taggerComp.py]
+Run the notebook [taggerComp.py](taggerComp.py)
 
 ## Student project
 Produce your own NanoAOD with all the taggers
